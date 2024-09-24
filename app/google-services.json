@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43049234966",
+    "project_id": "sample-image-upload-test",
+    "storage_bucket": "sample-image-upload-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43049234966:android:d100af8a67444049f1fb37",
+        "android_client_info": {
+          "package_name": "com.example.testcamera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwzyb8KjMIzp2ylzsYLZLQJRU7ZkKmUhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
